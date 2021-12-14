@@ -1,51 +1,83 @@
 [
-{
-    "title": "MediaTek Announces Dimensity 9000",
-    "desc": "Supercharged Flagship SoC on 4nm",
+ {
+    "title": "OnePlus Orbit update v1.1.0",
+    "desc": "OnePlus has released a new update for Orbit version 1.1.0 for OnePlus smartphones users.
+--------------
+•RM Update",
     "image": "true",
-    "imagelink": "https://i.hizliresim.com/llznt9j.png",
-    "link": "https://www.anandtech.com/show/17070/mediatek-announces-dimensity-9000"
+    "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/9.jpg",
+    "link": "https://www.rmupdate.com/2021/11/20/oneplus-orbit-update/"
     },
  {
-    "title": "(Xiaomiui)MIUI 13 Eligible Devices List",
-    "desc": "This list was prepared according to Xiaomi Update Policy.",
+    "title": "Want to become a perfect coder?",
+    "desc": "Try these programming projects
+--------------
+•TechGig",
+    "image": "true",
+    "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/8.jpg",
+    "link": "https://content.techgig.com/want-to-become-a-perfect-coder-try-these-programming-projects/articleshow/87718131.cms"
+    },
+ {
+    "title": "MIUI 13 Eligible Devices List",
+    "desc": "This list was prepared according to Xiaomi Update Policy.
+--------------
+•Xiaomiui",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/2.jpg",
     "link": "https://xiaomiui.net/miui-13-eligible-devices-and-release-date-348/"
     },
  {
     "title": "6 cool camera tricks you can only do on the new Pixel 6 phones",
-    "desc": "Google's latest flagship devices come with some smart photo wizardry.",
+    "desc": "Google's latest flagship devices come with some smart photo wizardry.
+--------------
+•Popsci",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/6.jpg",
     "link": "https://www.popsci.com/technology/pixel-6-camera-tricks/"
     },
 {
     "title": "One UI 4.0 Update Status",
-    "desc": "Samsung rolling out stable Android 12 to Galaxy devices in these regions",
+    "desc": "Samsung rolling out stable Android 12 to Galaxy devices in these regions
+--------------
+•SammyFans",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/5.jpg",
     "link": "https://www.sammyfans.com/2021/11/20/samsung-stable-android-12-one-ui-4-0-update-status/"
     },
 {
     "title": "Google has launched its early Black Friday deals",
-    "desc": "Discounts on Pixel, Nest, and Chromecast directly from Google and others",
+    "desc": "Discounts on Pixel, Nest, and Chromecast directly from Google and others
+--------------
+•TheVerge",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/7.jpg",
     "link": "https://www.theverge.com/22788031/google-black-friday-2021-deals-cyber-monday"
     },
 {
     "title": "(Xiaomiui)MIUI 13 -  New Health App",
-    "desc": "New Mi Health App integrates the various functions of the original Mi...",
+    "desc": "New Mi Health App integrates the various functions of the...
+--------------
+•Xiaomiui",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/3.jpg",
     "link": "https://t.me/xiaomiui/9884?single"
     },
 {
     "title": "(Xiaomiui)MIUI13 stable test are started!",
-    "desc": "Xiaomi is testing MIUI 13 stable on 7 flagship devices.",
+    "desc": "Xiaomi is testing MIUI 13 stable on 7 flagship devices.
+--------------
+•Xiaomiui",
     "image": "true",
     "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/4.jpg",
     "link": "https://xiaomiui.net/miui-13-stable-is-almost-ready-ready-for-xiaomi-flagships-325/"
+    },
+ {
+    "title": "TestNew",
+    "desc": "Test description
+------------
+PLEASE IGNORE THIS NEW",
+    "image": "false",
+    "imagelink": "https://root.apurixz.com/file/user_upload/GoogleLite/Images/1.jpg",
+    "link": "https://www.google.com"
     }
 ]
